@@ -1,6 +1,6 @@
 # Metodologia-agil-TEP
 
-Atividade colaborativa com o intuito de explorar a linguagem de programação X, fazendo uso de ferramentas de metodologia ágil.
+Atividade colaborativa com o intuito de explorar a linguagem de programação C#, fazendo uso de ferramentas de metodologia ágil.
 
 PONTOS A SEREM EXPLORADOS:
 O grupo deverá dividir a pesquisa em tarefas menores, por exemplo:
